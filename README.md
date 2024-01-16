@@ -1,7 +1,7 @@
 # LearningFromSourceCode
-This is a repository for  `Learning from Source Code - A Characteristic Study of User-Defined Memory Management Routines`.
+This is a repository for  `Learning from Source Code – A Characteristic Study of User-Defined Memory Management Routines in Real-World C Applications`.
 
-[Overview](https://github.com/MemoryManagement-Study/LearningFromSourceCode/tree/main/Overview#readme) -- Statistics used in the paper.
+[Overview](https://github.com/keaidecaotang/user-define-API-study/blob/master/readme.md) -- Statistics used in the paper.
 
 `Github ranking` is a submodule used to collect popular github repositories.
 
