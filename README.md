@@ -11,4 +11,4 @@ This is a repository for  `Learning from Source Code – A Characteristic Study 
 
 `MMR-Functionalities.xlsx` -- List all the studied memory managment routines' functionalities.
 
-`Reliability` The `*.adapted` and `*.allErrors` files include the manually analysed applications. The python scripts were used to collect the commit history from the github repos.
+The `*.adapted` and `*.allErrors` files include the manually analysed applications. The python scripts were used to collect the commit history from the github repos.
