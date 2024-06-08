@@ -1,4 +1,3 @@
-#!/home/ruili/anaconda3/bin/python3
 import sys, os, shutil, glob
 from pathlib import Path
 
